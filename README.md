@@ -4,8 +4,8 @@ also, sampling of the data for example first build the models on 100 then 200 ..
 Second thing is doing feature binning; As feature engineering then we see which features helps the model improve; Also, the new features and model performance will be shown as plots( how the model performance improves)
 
 
-Importing Packages
-Reading Dataset
+Importing Packages <br>
+Reading Dataset<br>
 Dataset Analysis and Prepartion
 Defining the binary classification column
 Identifying X and Y
