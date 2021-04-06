@@ -6,63 +6,62 @@ Second thing is doing feature binning; As feature engineering then we see which 
 
 Importing Packages <br>
 Reading Dataset<br>
-Dataset Analysis and Prepartion
-Defining the binary classification column
-Identifying X and Y
-Sampling process
-Doing Sampling Process
-Defining Network and helper function
-Defining Neural Network
-Defining Convilutional Neural Network
-Defining Helper Function
-Using Neural Network
-Confusion Matrix
-Using Convloution Nueral Network
-Confusion Matix
-Comments
-Feature Selection
-Feature Importance
-Using top 5 Features
-Build Neural Network
-Create CNN Model
-Using Top 10 Features
-Creating Neural Network
-Creating CNN model
-Using top 15 Features
-Creating NN Model
-Creating the CNN Model
-Using Top 20 Features
-Creating Neural Network
-Creating CNN Model
-Using Top 25 Features
-Creating Neural Network
-Creating CNN Model
-Using all Features
-Creating Neural Network
-Evaluating Results
-Confusion Matrix
-Feature Binning and Discretization
-Using pandas qcut functionality to make the transform
-Feature Importance
-Using top 5 Features
-Build Neural Network
-Create CNN Model
-Using Top 10 Features
-Creating Neural Network
-Creating CNN model
-Using top 15 Features
-Creating NN Model
-Creating the CNN Model
-Using Top 20 Features
-Creating Neural Network
-Creating CNN Model
-Using Top 25 Features
-Creating Neural Network
-Creating CNN Model
-Using all Features
-Creating Neural Network
-Evaluating Results
-Confusion Matrix
-COMPARING WITH AND WITHOUT FEATURE BINNING
-Convolutional Neural Network Evalution
-Neural Network Evalution
+Dataset Analysis and Prepartion <br>
+Defining the binary classification column<br>
+Identifying X and Y<br>
+Sampling process<br>
+Doing Sampling Process<br>
+Defining Network and helper function<br>
+Defining Neural Network<br>
+Defining Convilutional Neural Network <br>
+Defining Helper Function <br>
+Using Neural Network<br> 
+Confusion Matrix<br>
+Using Convloution Nueral Network <br>
+Confusion Matix<br>
+Feature Selection<br>
+Feature Importance<br>
+Using top 5 Features<br>
+Build Neural Network<br>
+Create CNN Model<br>
+Using Top 10 Features<br>
+Creating Neural Network<br>
+Creating CNN model<br>
+Using top 15 Features<br>
+Creating NN Model<br>
+Creating the CNN Model<br>
+Using Top 20 Features <br>
+Creating Neural Network <br>
+Creating CNN Model <br>
+Using Top 25 Features <br>
+Creating Neural Network <br>
+Creating CNN Model <br>
+Using all Features <br>
+Creating Neural Network <br>
+Evaluating Results <br>
+Confusion Matrix <br>
+Feature Binning and Discretization<br>
+Using pandas qcut functionality to make the transform<br>
+Feature Importance<br>
+Using top 5 Features<br>
+Build Neural Network<br>
+Create CNN Model<br>
+Using Top 10 Features<br>
+Creating Neural Network<br>
+Creating CNN model<br>
+Using top 15 Features<br>
+Creating NN Model<br>
+Creating the CNN Model<br>
+Using Top 20 Features<br>
+Creating Neural Network<br>
+Creating CNN Model<br>
+Using Top 25 Features<br>
+Creating Neural Network<br>
+Creating CNN Model<br>
+Using all Features<br>
+Creating Neural Network<br>
+Evaluating Results<br>
+Confusion Matrix<br>
+COMPARING WITH AND WITHOUT FEATURE BINNING<br>
+Convolutional Neural Network Evalution<br>
+Neural Network Evalution<br>
