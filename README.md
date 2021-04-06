@@ -1,8 +1,9 @@
-
+# Overview
 Build a CNN and NN , as a binary classification
 also, sampling of the data for example first build the models on 100 then 200 ...etc, and the see how the accuracy and precision improve as the data size increases
 Second thing is doing feature binning; As feature engineering then we see which features helps the model improve; Also, the new features and model performance will be shown as plots( how the model performance improves)
 
+# Sections Covered in the notebook
 
 Importing Packages <br>
 Reading Dataset<br>
